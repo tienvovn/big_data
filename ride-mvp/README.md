@@ -1,5 +1,4 @@
-# Ride-hailing Microservices MVP (theo sơ đồ bạn gửi)
-
+# Ride-hailing Microservices MVP 
 MVP này bám sát các khối trong hình:
 - **Client Layer**: (chưa build UI React trong repo này) – bạn có thể gọi API bằng Postman/curl.
 - **API Gateway (NodeJS + WebSocket)**: `gateway` (REST proxy + Socket.IO).
